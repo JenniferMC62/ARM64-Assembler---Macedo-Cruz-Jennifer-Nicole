@@ -37,3 +37,73 @@ Cada entrada incluye:
 | 8  | Programa 8                  | [Gist 8](https://gist.github.com/JenniferMC62/86df91e6d313ce44756aee07c688f73d)                   | [Video 8](https://asciinema.org/a/90TItSdHl39AAWNe1KdL0esML)                    |
 | 9  | Programa 9                  | [Gist 9](https://gist.github.com/JenniferMC62/88303eefdeb648932ef20705b193835a)                   | [Video 9](https://asciinema.org/a/tMExlPhwuPEPEUJTuQ2Y7mpIG)                    |
 | 10 | Programa 10                 | [Gist 10](https://gist.github.com/JenniferMC62/bff4e5ac26306e47ac0acc2f4b8e3974)                  | [Video 10](https://asciinema.org/a/MLveLXWljyw0fIsU66bnnWKxj)                   |
+
+---
+
+## 🔢 Progresos (20 / 50)
+
+| #  | Título del Programa         | Gist (Código) | Asciinema (Video) |
+|----|-----------------------------|---------------|-------------------|
+| 11 |                             |               |                   |
+| 12 |                             |               |                   |
+| 13 |                             |               |                   |
+| 14 |                             |               |                   |
+| 15 |                             |               |                   |
+| 16 |                             |               |                   |
+| 17 |                             |               |                   |
+| 18 |                             |               |                   |
+| 19 |                             |               |                   |
+| 20 |                             |               |                   |
+
+---
+
+## 🔢 Progresos (30 / 50)
+
+| #  | Título del Programa         | Gist (Código) | Asciinema (Video) |
+|----|-----------------------------|---------------|-------------------|
+| 21 |                             |               |                   |
+| 22 |                             |               |                   |
+| 23 |                             |               |                   |
+| 24 |                             |               |                   |
+| 25 |                             |               |                   |
+| 26 |                             |               |                   |
+| 27 |                             |               |                   |
+| 28 |                             |               |                   |
+| 29 |                             |               |                   |
+| 30 |                             |               |                   |
+
+---
+
+## 🔢 Progresos (40 / 50)
+
+| #  | Título del Programa         | Gist (Código) | Asciinema (Video) |
+|----|-----------------------------|---------------|-------------------|
+| 31 |                             |               |                   |
+| 32 |                             |               |                   |
+| 33 |                             |               |                   |
+| 34 |                             |               |                   |
+| 35 |                             |               |                   |
+| 36 |                             |               |                   |
+| 37 |                             |               |                   |
+| 38 |                             |               |                   |
+| 39 |                             |               |                   |
+| 40 |                             |               |                   |
+
+---
+
+## 🔢 Progresos (50 / 50)
+
+| #  | Título del Programa         | Gist (Código) | Asciinema (Video) |
+|----|-----------------------------|---------------|-------------------|
+| 41 |                             |               |                   |
+| 42 |                             |               |                   |
+| 43 |                             |               |                   |
+| 44 |                             |               |                   |
+| 45 |                             |               |                   |
+| 46 |                             |               |                   |
+| 47 |                             |               |                   |
+| 48 |                             |               |                   |
+| 49 |                             |               |                   |
+| 50 |                             |               |                   |
+
+---
