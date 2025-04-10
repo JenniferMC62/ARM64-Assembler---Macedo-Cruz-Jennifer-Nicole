@@ -75,16 +75,16 @@ Cada entrada incluye:
 ## 🔢 Progresos 40/50
 | Nº  | Nombre del Programa | Código (Gist)                                                                 | Grabación (Asciinema)                                                    |
 |-----|---------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| 31  | Programa 31         | [Ver código](https://gist.github.com/JenniferMC62/52098d9c57b7534544a27478125a44b7) | [Ver ejecución](https://asciinema.org/a/ugArp33eKsWynLJFgg4qiPGVa)       |
-| 32  | Programa 32         | [Ver código](https://gist.github.com/JenniferMC62/01b0b4aa447dfa5c49a4a1508f79f573) | [Ver ejecución](https://asciinema.org/a/IAkYdj4gNvkInHofzBwM250jb)       |
-| 33  | Programa 33         | [Ver código](https://gist.github.com/JenniferMC62/387bd7e49c0d95ff854908580141c9f9) | [Ver ejecución](https://asciinema.org/a/Nl5A4u7nHaD85SYxIGQRQ153B)       |
-| 34  | Programa 34         | [Ver código](https://gist.github.com/JenniferMC62/8130bb30ed6bc9aa4cde8a81867821d7) | [Ver ejecución](https://asciinema.org/a/hlMiLZMohoGGNoIkYl67eTpWM)       |
-| 35  | Programa 35         | [Ver código](https://gist.github.com/JenniferMC62/cdef0c3fb31e8ffd715327541cd1307a) | [Ver ejecución](https://asciinema.org/a/xtdkMyoowSfceK983puipXEc9)       |
-| 36  | Programa 36         | [Ver código](https://gist.github.com/JenniferMC62/0e227b0ec109212aad7020732eb584e8) | [Ver ejecución](https://asciinema.org/a/A6Fi5ngdpNtyQkefauWqgaHu3)       |
-| 37  | Programa 37         | [Ver código](https://gist.github.com/JenniferMC62/d038b3cbe40b17384854bc0020379858) | [Ver ejecución](https://asciinema.org/a/CiHlR3SeSkwIX6kCvGIoE0NEj)       |
-| 38  | Programa 38         | [Ver código](https://gist.github.com/JenniferMC62/c115f5c8d5c2e36fd1a3e56b5c973fff) | [Ver ejecución](https://asciinema.org/a/VRknPaeygkz9fK8rFO029dNSw)       |
-| 39  | Programa 39         | [Ver código](https://gist.github.com/JenniferMC62/15a0717c9edbb9b02c78f1d53d7863a5) | [Ver ejecución](https://asciinema.org/a/nQL9VP7l7y3bCHzRwW3LD57q1)       |
-| 40  | Programa 40         | [Ver código](https://gist.github.com/JenniferMC62/bd31d0123aa5752ad6dfb23c0a2e6278) | [Ver ejecución](https://asciinema.org/a/VIp2bdDWcr7BaYLRVvqRt5QYm)       |
+| 31  | Programa 31          | [Ver código](https://gist.github.com/JenniferMC62/bd31d0123aa5752ad6dfb23c0a2e6278) | [Ver ejecución](https://asciinema.org/a/ugArp33eKsWynLJFgg4qiPGVa)       |
+| 32  | Programa 32          | [Ver código](https://gist.github.com/JenniferMC62/52098d9c57b7534544a27478125a44b7) | [Ver ejecución](https://asciinema.org/a/IAkYdj4gNvkInHofzBwM250jb)       |
+| 33  | Programa 33          | [Ver código](https://gist.github.com/JenniferMC62/01b0b4aa447dfa5c49a4a1508f79f573) | [Ver ejecución](https://asciinema.org/a/Nl5A4u7nHaD85SYxIGQRQ153B)       |
+| 34  | Programa 34          | [Ver código](https://gist.github.com/JenniferMC62/387bd7e49c0d95ff854908580141c9f9) | [Ver ejecución](https://asciinema.org/a/hlMiLZMohoGGNoIkYl67eTpWM)       |
+| 35  | Programa 35          | [Ver código](https://gist.github.com/JenniferMC62/8130bb30ed6bc9aa4cde8a81867821d7) | [Ver ejecución](https://asciinema.org/a/xtdkMyoowSfceK983puipXEc9)       |
+| 36  | Programa 36          | [Ver código](https://gist.github.com/JenniferMC62/cdef0c3fb31e8ffd715327541cd1307a) | [Ver ejecución](https://asciinema.org/a/A6Fi5ngdpNtyQkefauWqgaHu3)       |
+| 37  | Programa 37          | [Ver código](https://gist.github.com/JenniferMC62/0e227b0ec109212aad7020732eb584e8) | [Ver ejecución](https://asciinema.org/a/CiHlR3SeSkwIX6kCvGIoE0NEj)       |
+| 38  | Programa 38          | [Ver código](https://gist.github.com/JenniferMC62/d038b3cbe40b17384854bc0020379858) | [Ver ejecución](https://asciinema.org/a/VRknPaeygkz9fK8rFO029dNSw)       |
+| 39  | Programa 39          | [Ver código](https://gist.github.com/JenniferMC62/c115f5c8d5c2e36fd1a3e56b5c973fff) | [Ver ejecución](https://asciinema.org/a/nQL9VP7l7y3bCHzRwW3LD57q1)       |
+| 40  | Programa 40          | [Ver código](https://gist.github.com/JenniferMC62/15a0717c9edbb9b02c78f1d53d7863a5) | [Ver ejecución](https://asciinema.org/a/VIp2bdDWcr7BaYLRVvqRt5QYm)       |
 
 ---
 
