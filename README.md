@@ -39,21 +39,21 @@ Cada entrada incluye:
 | 10 | Programa 10                 | [Gist 10](https://gist.github.com/JenniferMC62/bff4e5ac26306e47ac0acc2f4b8e3974)                  | [Video 10](https://asciinema.org/a/MLveLXWljyw0fIsU66bnnWKxj)                   |
 
 ---
+## 🔟 Progresos (20 / 50)
 
-## 🔷 Progresos (20 / 50)
+| Nº | Nombre del Programa                  | Código (Gist)                                                                 | Grabación (Asciinema)                                                    |
+|----|--------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1  | Programa 11                  | [Ver código](https://gist.github.com/JenniferMC62/04e7119b4ccd0f33457abd704b5f388e) | [Ver ejecución](https://asciinema.org/a/R4QuhsG7ROIvN8RWJ6TGTPie6)       |
+| 2  | Programa 12                 | [Ver código](https://gist.github.com/JenniferMC62/d1362ed02bbcbfc1ee32497614a9aa0d) | [Ver ejecución](https://asciinema.org/a/6uZQPRgaxWaPviIkMQsDmJteA)       |
+| 3  | Programa 13        | [Ver código](https://gist.github.com/JenniferMC62/65e8b1ad5274ccbd48b0ea81a412dc0e) | [Ver ejecución](https://asciinema.org/a/PzhZuXhecL5CiCllzMBNbVTOB)       |
+| 4  | Programa 14              | [Ver código](https://gist.github.com/JenniferMC62/11a39dbc33717130601c0da44a6c18b9) | [Ver ejecución](https://asciinema.org/a/0m6kJCYAmcvlcmMNr88K2LGDK)       |
+| 5  | Programa 15           | [Ver código](https://gist.github.com/JenniferMC62/acd77869aade931c6f8076b08d8b1514) | [Ver ejecución](https://asciinema.org/a/H0iGUfM0Dd678bFgG4ufCUU29)       |
+| 6  | Programa 16                   | [Ver código](https://gist.github.com/JenniferMC62/3aa78f270c17442a181a222f030093e6) | [Ver ejecución](https://asciinema.org/a/chbdjMiEjHBVl60LCHSgVDfLL)       |
+| 7  | Programa 17               | [Ver código](https://gist.github.com/JenniferMC62/bdbb9a7c36b6bb99c1bafe3150efdb7f) | [Ver ejecución](https://asciinema.org/a/j0bfKNOYN8DbjgRuOoKKJfodM)       |
+| 8  | Programa 18            | [Ver código](https://gist.github.com/JenniferMC62/be361afaa021190efd6412ca3d44b180) | [Ver ejecución](https://asciinema.org/a/jJK3G8jM5KTpragHnvCNmPrZA)       |
+| 9  | Programa 19                 | [Ver código](https://gist.github.com/JenniferMC62/84ad952cb4a324034a9c54eb386a0278) | [Ver ejecución](https://asciinema.org/a/42NKJ0x99vMFuHoNMtuqeKVQC)       |
+| 10 | Programa 20   | [Ver código](https://gist.github.com/JenniferMC62/6d6e1739a3614ae005bdf48801108aed) | [Ver ejecución](https://asciinema.org/a/f2RNCn8CoUOvXRAYYhEAmyOak)       |
 
-| #  | Título del Programa      | Gist (Código)                                                                 | Asciinema (Video)                                                           |
-|----|--------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 11 |                          | [Gist 11](https://gist.github.com/JenniferMC62/acd77869aade931c6f8076b08d8b1514) | [Video 11](https://asciinema.org/a/H0iGUfM0Dd678bFgG4ufCUU29)               |
-| 12 |                          | [Gist 12](https://gist.github.com/JenniferMC62/3aa78f270c17442a181a222f030093e6) | [Video 12](https://asciinema.org/a/chbdjMiEjHBVl60LCHSgVDfLL)               |
-| 13 |                          | [Gist 13](https://gist.github.com/JenniferMC62/bdbb9a7c36b6bb99c1bafe3150efdb7f) | [Video 13](https://asciinema.org/a/j0bfKNOYN8DbjgRuOoKKJfodM)               |
-| 14 |                          | [Gist 14](https://gist.github.com/JenniferMC62/be361afaa021190efd6412ca3d44b180) | [Video 14](https://asciinema.org/a/jJK3G8jM5KTpragHnvCNmPrZA)               |
-| 15 |                          | [Gist 15](https://gist.github.com/JenniferMC62/84ad952cb4a324034a9c54eb386a0278) | [Video 15](https://asciinema.org/a/42NKJ0x99vMFuHoNMtuqeKVQC)               |
-| 16 |                          | [Gist 16](https://gist.github.com/JenniferMC62/6d6e1739a3614ae005bdf48801108aed) | [Video 16](https://asciinema.org/a/f2RNCn8CoUOvXRAYYhEAmyOak)               |
-| 17 |                          | [Gist 17](https://gist.github.com/JenniferMC62/04e7119b4ccd0f33457abd704b5f388e) | [Video 17](https://asciinema.org/a/R4QuhsG7ROIvN8RWJ6TGTPie6)               |
-| 18 |                          | [Gist 18](https://gist.github.com/JenniferMC62/d1362ed02bbcbfc1ee32497614a9aa0d) | [Video 18](https://asciinema.org/a/6uZQPRgaxWaPviIkMQsDmJteA)               |
-| 19 |                          | [Gist 19](https://gist.github.com/JenniferMC62/65e8b1ad5274ccbd48b0ea81a412dc0e) | [Video 19](https://asciinema.org/a/PzhZuXhecL5CiCllzMBNbVTOB)               |
-| 20 |                          | [Gist 20](https://gist.github.com/JenniferMC62/11a39dbc33717130601c0da44a6c18b9) | [Video 20](https://asciinema.org/a/0m6kJCYAmcvlcmMNr88K2LGDK)               |
 
 ## 🔷 Progresos (30 / 50)
 
